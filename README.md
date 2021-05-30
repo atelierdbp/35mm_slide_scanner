@@ -1,9 +1,14 @@
 # 35mm_slide_scanner
 This project is aimed at the development and construction of an automated scanner to digitize 35mm slides. The system uses an SLR camera to acquire the images. These files are made available to aid those interested in building such a system.  This GitHub site contains a number of files which attempt to explain the design, assembly and use of the scanner including:
+
 1-	A .3ds Fusion 360 file of the assembled scanner and all its components
+
 2-	A .step file of the assembled scanner and its components.
+
 3-	An overview of the system assembly and operating principle. 
+
 4-	A list of drawing files of the various components. These were derived from the Fusion 360 model and any questions about dimensioning should be checked against the Fusion 360 model. 
+
 5-	The Arduino code used to run the scanner.
 6-	Gerber files for a circuit board to make a small light box.
 7-	A document explaining the electronics schematic for the system control board.
