@@ -10,8 +10,11 @@ This project is aimed at the development and construction of an automated scanne
 4-	A list of drawing files of the various components. These were derived from the Fusion 360 model and any questions about dimensioning should be checked against the Fusion 360 model. 
 
 5-	The Arduino code used to run the scanner.
+
 6-	Gerber files for a circuit board to make a small light box.
+
 7-	A document explaining the electronics schematic for the system control board.
+
 8-	A manual explaining the use of the 35mm scanner. 
 
 This project requires machining of mechanical components, a number of 3D printed components, possible software modifications and prototype electronics wiring. It is highly recommended that those interested in pursuing this project have access to Fusion 360 and be familiar with its use.  A video introduction to the 35mm slide scanner can be found at:  https://vimeo.com/556879099
